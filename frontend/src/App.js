@@ -14,7 +14,6 @@ function App() {
       <Routes>
         <Route path="/" element={<UserProfile/> } />
         <Route path="/add" element={<AddUser />} />
-        <Route path="/edit/:id" element={<EditUser />} />
         <Route path='/*' element={<NotFound />} />
       </Routes>
     </BrowserRouter>

@@ -13,13 +13,15 @@ First, clone the project using the following command:
 ```bash
 git clone https://github.com/manikanta700/stock-app
 ```
-The Application is deployed in https://aditya-sridhar.github.io/simple-reactjs-app
+The Application is not yet deployed , so i have made a working demo video 
+link: https://youtu.be/4sRHmZZ3eLU
 
-To run the frontend (react.js)
 
-1. Move to frontend
+To run the server (node.js)
+
+1. Move to server
 ```bash
-cd frontend
+cd server
 ```
 2. Install all the npm packages. 
 ```bash
@@ -30,11 +32,11 @@ npm install
 npm start
 ```
 
-To run the server (node.js)
+To run the frontend (react.js)
 
-1. Move to server
+1. Move to frontend
 ```bash
-cd server
+cd frontend
 ```
 2. Install all the npm packages. 
 ```bash
